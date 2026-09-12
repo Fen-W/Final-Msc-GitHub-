@@ -1,4 +1,4 @@
-<img width="451" height="334" alt="image" src="https://github.com/user-attachments/assets/bb5e3244-906b-449f-ab6c-df8352d46694" />
+<img width="1000" height="1500" alt="image" src="https://github.com/user-attachments/assets/bb5e3244-906b-449f-ab6c-df8352d46694" />
 
 The database is built once. database_build_v5.py reads the 113 PDFs listed in corpus.csv, describes the figures with a vision model, chunks the text and stores 14,274 passages. Around 15 hours, then never again.
 test_questions.py holds the 20 questions and nothing else. Every system is asked the same wording in the same order.
