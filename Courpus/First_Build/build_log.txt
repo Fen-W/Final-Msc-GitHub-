@@ -1,0 +1,146 @@
+=== build started Thu Aug  6 23:24:08 BST 2026 ===
+Found 113 PDFs in /Users/woolf/Desktop/dissertation/corpus/pdfs
+[1/113] DOC001.pdf: 63 chunks
+[2/113] DOC002.pdf: 97 chunks
+[3/113] DOC003.pdf: 229 chunks
+[4/113] DOC004.pdf: 36 chunks
+[5/113] DOC005.pdf: 75 chunks
+[6/113] DOC006.pdf: 123 chunks
+[7/113] DOC007.pdf: 70 chunks
+[8/113] DOC008.pdf: 83 chunks
+[9/113] DOC009.pdf: 79 chunks
+[10/113] DOC010.pdf: 63 chunks
+[11/113] DOC011.pdf: 44 chunks
+[12/113] DOC012.pdf: 258 chunks
+[13/113] DOC013.pdf: 125 chunks
+[14/113] DOC014.pdf: 381 chunks
+[15/113] DOC015.pdf: 43 chunks
+[16/113] DOC016.pdf: 600 chunks
+[17/113] DOC017.pdf: 47 chunks
+[18/113] DOC018.pdf: 13 chunks
+[19/113] DOC019.pdf: 15 chunks
+[20/113] DOC020.pdf: 988 chunks
+[21/113] DOC021.pdf: 412 chunks
+[22/113] DOC022.pdf: 580 chunks
+[23/113] DOC023.pdf: 59 chunks
+[24/113] DOC024.pdf: 34 chunks
+[25/113] DOC025.pdf: 104 chunks
+[26/113] DOC026.pdf: 70 chunks
+[27/113] DOC027.pdf: 84 chunks
+[28/113] DOC028.pdf: 65 chunks
+[29/113] DOC029.pdf: 78 chunks
+[30/113] DOC030.pdf: 67 chunks
+[31/113] DOC031.pdf: 53 chunks
+[32/113] DOC032.pdf: 37 chunks
+[33/113] DOC033.pdf: 45 chunks
+[34/113] DOC034.pdf: 72 chunks
+[35/113] DOC035.pdf: 46 chunks
+[36/113] DOC036.pdf: 92 chunks
+[37/113] DOC037.pdf: 97 chunks
+[38/113] DOC038.pdf: 141 chunks
+[39/113] DOC039.pdf: 140 chunks
+[40/113] DOC040.pdf: 68 chunks
+[41/113] DOC041.pdf: 52 chunks
+[42/113] DOC042.pdf: 64 chunks
+[43/113] DOC043.pdf: 71 chunks
+[44/113] DOC044.pdf: 167 chunks
+[45/113] DOC045.pdf: 132 chunks
+[46/113] DOC046.pdf: 180 chunks
+[47/113] DOC047.pdf: 96 chunks
+[48/113] DOC048.pdf: 59 chunks
+[49/113] DOC049.pdf: 107 chunks
+[50/113] DOC050.pdf: 64 chunks
+[51/113] DOC051.pdf: 80 chunks
+[52/113] DOC052.pdf: 128 chunks
+[53/113] DOC053.pdf: 221 chunks
+[54/113] DOC054.pdf: 110 chunks
+[55/113] DOC055.pdf: 156 chunks
+[56/113] DOC056.pdf: 48 chunks
+[57/113] DOC057.pdf: 45 chunks
+[58/113] DOC058.pdf: 64 chunks
+[59/113] DOC059.pdf: 129 chunks
+[60/113] DOC060.pdf: 54 chunks
+[61/113] DOC061.pdf: 63 chunks
+[62/113] DOC062.pdf: 54 chunks
+[63/113] DOC063.pdf: 52 chunks
+[64/113] DOC064.pdf: 84 chunks
+[65/113] DOC065.pdf: 74 chunks
+[66/113] DOC066.pdf: 194 chunks
+[67/113] DOC067.pdf: 424 chunks
+[68/113] DOC068.pdf: 28 chunks
+[69/113] DOC069.pdf: 10 chunks
+[70/113] DOC070.pdf: 141 chunks
+[71/113] DOC071.pdf: 542 chunks
+[72/113] DOC072.pdf: 38 chunks
+[73/113] DOC073.pdf: 8 chunks
+[74/113] DOC074.pdf: 75 chunks
+[75/113] DOC075.pdf: 830 chunks
+[76/113] DOC076.pdf: 52 chunks
+[77/113] DOC077.pdf: 299 chunks
+[78/113] DOC078.pdf: 315 chunks
+[79/113] DOC079.pdf: 26 chunks
+[80/113] DOC080.pdf: 60 chunks
+[81/113] DOC081.pdf: 5 chunks
+[82/113] DOC082.pdf: 498 chunks
+[83/113] DOC083.pdf: 51 chunks
+[84/113] DOC084.pdf: 387 chunks
+[85/113] DOC085.pdf: 36 chunks
+[86/113] DOC086.pdf: 51 chunks
+[87/113] DOC087.pdf: 83 chunks
+[88/113] DOC088.pdf: 304 chunks
+[89/113] DOC089.pdf: 26 chunks
+[90/113] DOC090.pdf: 111 chunks
+[91/113] DOC091.pdf: 55 chunks
+[92/113] DOC092.pdf: 33 chunks
+[93/113] DOC093.pdf: 57 chunks
+[94/113] DOC094.pdf: 63 chunks
+[95/113] DOC095.pdf: 107 chunks
+[96/113] DOC096.pdf: 36 chunks
+[97/113] DOC097.pdf: SKIPPED (inclusion_status=exclude)
+[98/113] DOC098.pdf: SKIPPED (inclusion_status=exclude)
+[99/113] DOC099.pdf: SKIPPED (inclusion_status=exclude)
+[100/113] DOC100.pdf: SKIPPED (inclusion_status=exclude)
+[101/113] DOC101.pdf: SKIPPED (inclusion_status=exclude)
+[102/113] DOC102.pdf: SKIPPED (inclusion_status=exclude)
+[103/113] DOC103.pdf: 66 chunks
+[104/113] DOC104.pdf: 33 chunks
+[105/113] DOC105.pdf: 84 chunks
+[106/113] DOC106.pdf: 605 chunks
+[107/113] DOC107.pdf: 193 chunks
+[108/113] DOC108.pdf: 336 chunks
+[109/113] DOC109.pdf: 335 chunks
+[110/113] DOC110.pdf: 56 chunks
+[111/113] DOC111.pdf: 100 chunks
+[112/113] DOC112.pdf: 56 chunks
+[113/113] DOC113.pdf: 52 chunks
+Skipped 6 PDF(s) marked exclude in corpus.csv (kept in CSV, not embedded)
+
+Total chunks in vector DB: 14991
+
+--- DOC062 | Microplastics in the air: Weather and polymer influences on  | dist=0.272
+### **5. Conclusion** 
+
+This study offers significant insights into the intricate dynamics of atmospheric microplastic deposition across a rural-to-urban gradient. Contrary to expectations, the highest deposition rates were observed in the rural setting of Wytham Wood, rather than in the urban core of Oxford City. This suggests that local meteorological factors, particularly wind speed and directi ...
+
+--- DOC062 | Microplastics in the air: Weather and polymer influences on  | dist=0.281
+analysis in environmental samples (Koelmans et al., 2019), ensuring meticulous blank corrections and the use of positive controls. 
+
+Contrary to our initial hypothesis, the highest microplastic deposition was observed in the rural area of Wytham Wood, rather than in the urban core of Oxford City. This finding indicates that the distribution of atmospheric microplastics is not exclusively driven by ...
+
+--- DOC036 | Fate and Impacts of Microplastics in the Environment: Hydros | dist=0.294
+Table 4 summarizes the available literature on atmospheric microplastics. Strong wind and rainfall events resulted in the deposition of atmospheric microplastics in the urban cities of Paris and Hamburg, where ~120 MP/m<sup>2</sup> and 275 MP/m<sup>2</sup> , respectively, are deposited daily [110,122]. Cai et al. [47] reported the deposition of atmospheric microplastics in the city of Dongguan, Ch ...
+
+--- DOC027 | Atmospheric microplastic input into wetlands: Spatiotemporal | dist=0.295
+### _3.1. Contribution of atmospheric deposition to wetland microplastic pollution_ 
+
+Combining and analyzing the obtained sample information, we found an average deposition rate of microplastics in the sampling area of 512.31 ± 363.55 items m<sup>−2</sup> d<sup>−1</sup> , about four times higher than the ...
+
+--- DOC050 | Atmospheric deposition of microplastics in urban, rural, for | dist=0.295
+The chart shows data for three locations: Urban, Rural, and Forest.
+
+The quantities/units shown are deposition fluxes in particles per square meter per day.
+
+The trend is that the deposition flux of microplastics is generally higher in the Urban location, with the highest values observed in the first and last weeks of the study.
+
+The single key finding is that the Urban location had the highest de ...
+=== build finished Fri Aug  7 03:29:08 BST 2026 ===
