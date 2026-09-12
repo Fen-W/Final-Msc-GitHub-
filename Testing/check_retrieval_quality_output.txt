@@ -1,0 +1,57 @@
+
+1. HOW MUCH OF THE EXPECTED EVIDENCE WAS FOUND
+
+question  expected  returned    hit reachable
+---------------------------------------------
+Q01            9         5      2         5
+Q02            5         5      2         5
+Q03            5         6      0         5
+Q04            9         5      1         5
+Q05            4         5      0         4
+Q06            6         5      2         5
+Q07            5         5      1         5
+Q08            6         6      2         6
+Q09            6         4      1         4
+Q10            4         5      2         4
+Q11            6         5      2         5
+Q12            7         4      0         4
+Q13           10         5      1         5
+Q14            6         4      1         4
+Q15            8         3      0         3
+---------------------------------------------
+recall    17 of 69 reachable = 25%
+precision 17 of 72 returned  = 24%
+
+
+2. DOES THE SYSTEM FAVOUR LONG DOCUMENTS
+
+median passages per document, whole corpus           69
+median passages per document, actually returned     134
+median passages per document, expected but never returned 60
+
+most returned documents:
+   DOC014 returned for 13 questions,  371 passages, expected for 4
+   DOC095 returned for  8 questions,  101 passages, expected for 4
+   DOC035 returned for  6 questions,   44 passages, expected for 1
+   DOC003 returned for  5 questions,  213 passages, expected for 3
+   DOC106 returned for  4 questions,  596 passages, expected for 1
+
+
+3. CAN BM25 KEYWORD SEARCH TELL ANYTHING APART
+
+word               passages     share      idf
+------------------------------------------------
+microplastics          3645     25.5%     1.37  too common to be useful
+atmospheric            2316     16.2%     1.82  too common to be useful
+health                 2276     15.9%     1.84  too common to be useful
+evidence               1074      7.5%     2.59
+policy                 1206      8.4%     2.47
+sources                1370      9.6%     2.34
+deposition             1417      9.9%     2.31
+transport              1343      9.4%     2.36
+uk                      974      6.8%     2.68
+tyre                    117      0.8%     4.80
+drinking                155      1.1%     4.52
+
+total passages searched: 14274
+

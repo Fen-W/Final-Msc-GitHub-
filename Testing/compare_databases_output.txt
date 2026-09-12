@@ -1,0 +1,9 @@
+
+                                              first    rebuilt
+--------------------------------------------------------------
+Total passages                                14991      14274
+Documents                                       107        107
+Passages under 100 characters                   437          0
+Heading only passages                           248          0
+Passages with lost characters                  1548          0
+Invented claims in figure descriptions          114          0
