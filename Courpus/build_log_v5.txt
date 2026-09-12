@@ -1,0 +1,202 @@
+Found 113 PDFs in /Users/woolf/Desktop/dissertation/corpus/pdfs
+[1/113] DOC001.pdf: 65 chunks
+[2/113] DOC002.pdf: 90 chunks
+[3/113] DOC003.pdf: 213 chunks
+      retrying DOC004.pdf-0005-14.png after: timed out
+      GAVE UP on DOC004.pdf-0005-14.png after two attempts: timed out
+[4/113] DOC004.pdf: 33 chunks
+      retrying DOC005.pdf-0005-06.png after: timed out
+      GAVE UP on DOC005.pdf-0005-06.png after two attempts: timed out
+[5/113] DOC005.pdf: 72 chunks
+[6/113] DOC006.pdf: 112 chunks
+[7/113] DOC007.pdf: 70 chunks
+[8/113] DOC008.pdf: 82 chunks
+      retrying DOC009.pdf-0010-19.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC009.pdf-0010-19.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[9/113] DOC009.pdf: 70 chunks
+[10/113] DOC010.pdf: 63 chunks
+[11/113] DOC011.pdf: 44 chunks
+[12/113] DOC012.pdf: 241 chunks
+      retrying DOC013.pdf-0035-00.png after: timed out
+      GAVE UP on DOC013.pdf-0035-00.png after two attempts: timed out
+[13/113] DOC013.pdf: 119 chunks
+[14/113] DOC014.pdf: 371 chunks
+[15/113] DOC015.pdf: 43 chunks
+[16/113] DOC016.pdf: 586 chunks
+[17/113] DOC017.pdf: 47 chunks
+[18/113] DOC018.pdf: 12 chunks
+[19/113] DOC019.pdf: 13 chunks
+[20/113] DOC020.pdf: 917 chunks
+      retrying DOC021.pdf-0084-01.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC021.pdf-0084-01.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC021.pdf-0084-02.png after: timed out
+      GAVE UP on DOC021.pdf-0084-02.png after two attempts: timed out
+[21/113] DOC021.pdf: 389 chunks
+      retrying DOC022.pdf-0094-07.png after: timed out
+      retrying DOC022.pdf-0108-07.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC022.pdf-0108-07.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[22/113] DOC022.pdf: 558 chunks
+[23/113] DOC023.pdf: 53 chunks
+[24/113] DOC024.pdf: 33 chunks
+[25/113] DOC025.pdf: 102 chunks
+[26/113] DOC026.pdf: 64 chunks
+[27/113] DOC027.pdf: 79 chunks
+[28/113] DOC028.pdf: 57 chunks
+[29/113] DOC029.pdf: 72 chunks
+[30/113] DOC030.pdf: 65 chunks
+      retrying DOC031.pdf-0005-13.png after: timed out
+      GAVE UP on DOC031.pdf-0005-13.png after two attempts: timed out
+[31/113] DOC031.pdf: 53 chunks
+[32/113] DOC032.pdf: 33 chunks
+[33/113] DOC033.pdf: 42 chunks
+[34/113] DOC034.pdf: 67 chunks
+      retrying DOC035.pdf-0005-11.png after: timed out
+      GAVE UP on DOC035.pdf-0005-11.png after two attempts: timed out
+[35/113] DOC035.pdf: 44 chunks
+[36/113] DOC036.pdf: 86 chunks
+[37/113] DOC037.pdf: 96 chunks
+[38/113] DOC038.pdf: 143 chunks
+[39/113] DOC039.pdf: 133 chunks
+[40/113] DOC040.pdf: 68 chunks
+[41/113] DOC041.pdf: 52 chunks
+[42/113] DOC042.pdf: 58 chunks
+[43/113] DOC043.pdf: 69 chunks
+[44/113] DOC044.pdf: 159 chunks
+[45/113] DOC045.pdf: 128 chunks
+      retrying DOC046.pdf-0003-06.png after: timed out
+      GAVE UP on DOC046.pdf-0003-06.png after two attempts: timed out
+[46/113] DOC046.pdf: 179 chunks
+[47/113] DOC047.pdf: 92 chunks
+      retrying DOC048.pdf-0001-10.png after: timed out
+      GAVE UP on DOC048.pdf-0001-10.png after two attempts: timed out
+[48/113] DOC048.pdf: 55 chunks
+      retrying DOC049.pdf-0011-02.png after: timed out
+[49/113] DOC049.pdf: 109 chunks
+[50/113] DOC050.pdf: 58 chunks
+[51/113] DOC051.pdf: 77 chunks
+[52/113] DOC052.pdf: 134 chunks
+[53/113] DOC053.pdf: 221 chunks
+[54/113] DOC054.pdf: 107 chunks
+[55/113] DOC055.pdf: 147 chunks
+[56/113] DOC056.pdf: 47 chunks
+[57/113] DOC057.pdf: 44 chunks
+[58/113] DOC058.pdf: 60 chunks
+      retrying DOC059.pdf-0007-02.png after: timed out
+      GAVE UP on DOC059.pdf-0007-02.png after two attempts: timed out
+      retrying DOC059.pdf-0019-02.png after: timed out
+      GAVE UP on DOC059.pdf-0019-02.png after two attempts: timed out
+[59/113] DOC059.pdf: 132 chunks
+[60/113] DOC060.pdf: 53 chunks
+      retrying DOC061.pdf-0011-07.png after: timed out
+      GAVE UP on DOC061.pdf-0011-07.png after two attempts: timed out
+[61/113] DOC061.pdf: 57 chunks
+[62/113] DOC062.pdf: 64 chunks
+[63/113] DOC063.pdf: 52 chunks
+[64/113] DOC064.pdf: 83 chunks
+[65/113] DOC065.pdf: 69 chunks
+[66/113] DOC066.pdf: 188 chunks
+[67/113] DOC067.pdf: 406 chunks
+[68/113] DOC068.pdf: 25 chunks
+[69/113] DOC069.pdf: 9 chunks
+[70/113] DOC070.pdf: 125 chunks
+      retrying DOC071.pdf-0235-20.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC071.pdf-0235-20.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[71/113] DOC071.pdf: 538 chunks
+[72/113] DOC072.pdf: 37 chunks
+[73/113] DOC073.pdf: 8 chunks
+[74/113] DOC074.pdf: 68 chunks
+      retrying DOC075.pdf-0136-17.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC075.pdf-0136-17.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC075.pdf-0352-14.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC075.pdf-0352-14.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC075.pdf-0383-17.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC075.pdf-0383-17.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC075.pdf-0383-19.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC075.pdf-0383-19.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC075.pdf-0392-12.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC075.pdf-0392-12.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC075.pdf-0408-12.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC075.pdf-0408-12.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[75/113] DOC075.pdf: 819 chunks
+[76/113] DOC076.pdf: 49 chunks
+      retrying DOC077.pdf-0054-13.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC077.pdf-0054-13.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[77/113] DOC077.pdf: 257 chunks
+[78/113] DOC078.pdf: 278 chunks
+[79/113] DOC079.pdf: 18 chunks
+[80/113] DOC080.pdf: 59 chunks
+[81/113] DOC081.pdf: 4 chunks
+      retrying DOC082.pdf-0242-02.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC082.pdf-0242-02.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC082.pdf-0242-03.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC082.pdf-0242-03.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[82/113] DOC082.pdf: 381 chunks
+[83/113] DOC083.pdf: 49 chunks
+[84/113] DOC084.pdf: 371 chunks
+[85/113] DOC085.pdf: 30 chunks
+[86/113] DOC086.pdf: 49 chunks
+[87/113] DOC087.pdf: 79 chunks
+[88/113] DOC088.pdf: 280 chunks
+[89/113] DOC089.pdf: 26 chunks
+[90/113] DOC090.pdf: 104 chunks
+[91/113] DOC091.pdf: 54 chunks
+[92/113] DOC092.pdf: 34 chunks
+[93/113] DOC093.pdf: 55 chunks
+[94/113] DOC094.pdf: 62 chunks
+[95/113] DOC095.pdf: 101 chunks
+[96/113] DOC096.pdf: 38 chunks
+[97/113] DOC097.pdf: SKIPPED (inclusion_status=exclude)
+[98/113] DOC098.pdf: SKIPPED (inclusion_status=exclude)
+[99/113] DOC099.pdf: SKIPPED (inclusion_status=exclude)
+[100/113] DOC100.pdf: SKIPPED (inclusion_status=exclude)
+[101/113] DOC101.pdf: SKIPPED (inclusion_status=exclude)
+[102/113] DOC102.pdf: SKIPPED (inclusion_status=exclude)
+[103/113] DOC103.pdf: 63 chunks
+[104/113] DOC104.pdf: 32 chunks
+[105/113] DOC105.pdf: 83 chunks
+[106/113] DOC106.pdf: 596 chunks
+[107/113] DOC107.pdf: 165 chunks
+[108/113] DOC108.pdf: 335 chunks
+[109/113] DOC109.pdf: 343 chunks
+      retrying DOC110.pdf-0003-12.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC110.pdf-0003-12.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[110/113] DOC110.pdf: 47 chunks
+      retrying DOC111.pdf-0010-05.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC111.pdf-0010-05.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+      retrying DOC111.pdf-0013-08.png after: model runner has unexpectedly stopped, this may be due to re
+      GAVE UP on DOC111.pdf-0013-08.png after two attempts: model runner has unexpectedly stopped, this may be due to re
+[111/113] DOC111.pdf: 96 chunks
+[112/113] DOC112.pdf: 55 chunks
+[113/113] DOC113.pdf: 52 chunks
+Skipped 6 PDF(s) marked exclude in corpus.csv (kept in CSV, not embedded)
+
+27 figures could not be described and were left out:
+   DOC004.pdf-0005-14.png
+   DOC005.pdf-0005-06.png
+   DOC009.pdf-0010-19.png
+   DOC013.pdf-0035-00.png
+   DOC021.pdf-0084-01.png
+   DOC021.pdf-0084-02.png
+   DOC022.pdf-0108-07.png
+   DOC031.pdf-0005-13.png
+   DOC035.pdf-0005-11.png
+   DOC046.pdf-0003-06.png
+   DOC048.pdf-0001-10.png
+   DOC059.pdf-0007-02.png
+   DOC059.pdf-0019-02.png
+   DOC061.pdf-0011-07.png
+   DOC071.pdf-0235-20.png
+   DOC075.pdf-0136-17.png
+   DOC075.pdf-0352-14.png
+   DOC075.pdf-0383-17.png
+   DOC075.pdf-0383-19.png
+   DOC075.pdf-0392-12.png
+   DOC075.pdf-0408-12.png
+   DOC077.pdf-0054-13.png
+   DOC082.pdf-0242-02.png
+   DOC082.pdf-0242-03.png
+   DOC110.pdf-0003-12.png
+   DOC111.pdf-0010-05.png
+   DOC111.pdf-0013-08.png
+
+Total chunks in vector DB: 14274
