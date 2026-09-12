@@ -1,29 +1,9 @@
 
-#
-# CHOICE OF VISION MODEL
+
 #  this script replaces the previous  LLaMA 3.2 Vision with Qwen2.5-VL. 
-#  
-#
-# ENVIRONMENT
-#   Python 3.13 in .venv. Runs entirely locally through Ollama, no external APIs.
-#   Models: embeddings = bge-m3 (1024 dimensions), figures = qwen2.5vl.
-#   Hardware: Mac Studio (Apple M2 Max), 32 GB unified memory.
-#   The embedding model must be the same at build and query time, or the vectors
-#   are not comparable.
-#
-# HOW TO RUN
-#   ollama serve &
-#   ollama pull bge-m3 ; ollama pull qwen2.5vl
-#   python -u "build_v5/database_build_v5.py"                   # -u shows progress
-#
-#  this does take a long time to run on my mac studio m2 it took around 15 hours  
-#
-# OUTPUTS this file outputs.
-#   vectorised_database_v5/     the database, collection "microplastics_corpus_v5"
-#   parsed_document_text/       the text of each document, descriptions inlined
-#   extracted_figures/          the figure images
-#   figure_captions_cache.json  the descriptions, reused on a re-run
-#
+
+
+
 
 
 
