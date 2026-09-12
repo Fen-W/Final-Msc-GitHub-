@@ -1,4 +1,4 @@
-OUutputs / auid logs 
+Outputs / auid logs 
 
 The outputs of my systems for all 20 questions, the question, the answer, the retrieved
 messages, how close each passage was in meaning, as well as the invalid citations, the
