@@ -59,3 +59,57 @@ Generation settings such as temperature and seed are fixed across all four syste
 Every answer and its additional information is stored in the audit logs.
 
 The scripts in the `Testing` folder are used to identify possible sources of inconsistency, such as errors in figure descriptions, differences between database builds and retrieval bias towards longer documents.
+
+# Environment and Requirements
+
+## Python
+
+Everything to run the system is in `requirements.txt`:
+
+    chromadb
+    ollama
+    openai
+    langgraph
+    rank-bm25
+    pymupdf / pymupdf4llm
+    langchain-text-splitters
+    openpyxl
+    python-docx
+    pandas / numpy
+
+Install them into a fresh virtual environment before anything is ran
+
+    python -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+
+## Ollama (local models)
+
+The build and System 1 both run locally through Ollama, not through an API:
+
+- `qwen2.5vl` — the vision model used for fig captions
+- `bge-m3` — the embeddings used store and search passages
+- `llama3.1` — system 1s model
+
+Ollama needs to be installed and running, with these three models pulled, before
+`database_build_v5.py` or System 1 will work
+
+    ollama pull qwen2.5vl
+    ollama pull bge-m3
+    ollama pull llama3.1
+
+## OpenAI API
+
+Systems 2, 3 and 4 all call GPT-4.1. An OpenAI API key needs to be in place in the environment for these to you can add this to the top of each script.
+
+## Note on paths
+
+Some scripts (including `database_build_v5.py`) currently point at fixed folder on my desk top. They will need to be updated to match wherever this repository is run from in oder to get everything to link up together. All the but all the files needed are in the repository. It's just the paths inside a few scripts that need changing for full reproducibility.
+
+## Running it in order
+
+1. Set up the environment and models above.
+2. Run `database_build_v5.py` once to build the vector database.
+3. Run `run_questions.py`, pointing it at whichever system you want to test.
+4. Run the scripts in `Testing/` against the build and the outputs to check
+   for faults.
