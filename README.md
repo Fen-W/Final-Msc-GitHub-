@@ -1,5 +1,4 @@
 <img width="2400" height="1216" alt="image" src="https://github.com/user-attachments/assets/e9f5e803-45e5-44e0-81cc-bf09adff164c" />
-# Atmospheric Microplastics RAG 
 
 This repository is the full pipelines used for the development and the testing of the four Retrieval Augmented Generation RAG Systems.
 
